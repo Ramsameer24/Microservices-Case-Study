@@ -1,0 +1,14 @@
+http://localhost:8000/books-exchange/name/History of Amazon Valley/author/Ross Suarez
+http://localhost:8100/subscription-feign/name/Language Fundamentals/author/H S Parkmay/availablecopies/5
+http://localhost:8000/h2-console
+
+
+  {
+     bookId : “string”,
+     name : “string”,
+     author : “string”,
+     copiesAvailable : number,
+     totalCopies : number
+     environment:"8000"
+  }
+
